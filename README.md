@@ -25,3 +25,15 @@ Key lesson: You don’t control what’s inside them. The browser + external sou
 Basic syntax:
 ```html
 <iframe src="https://example.com" width="600" height="400"></iframe>
+
+### **iframe Code I Learned Today**
+```html
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/VIDEO_ID" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
+

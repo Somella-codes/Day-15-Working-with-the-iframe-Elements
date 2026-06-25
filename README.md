@@ -26,14 +26,13 @@ Basic syntax:
 ```html
 <iframe src="https://example.com" width="600" height="400"></iframe>
 
-#### **3. iframe Code I Learned Today**
+### **3. iframe Code I Learned Today**
 ```html
 <iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/VIDEO_ID" 
-  title="YouTube video player" 
-  frameborder="0" 
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/VIDEO_ID"
+  title="YouTube video player"
+  frameborder="0"
   allowfullscreen>
 </iframe>
-

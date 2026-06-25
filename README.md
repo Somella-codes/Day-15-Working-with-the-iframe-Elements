@@ -2,7 +2,7 @@
 
 After Day 14's SVG line break trauma 💀, Day 15 was a breath of fresh air. Today I learned how to embed entire webpages inside my own!
 
-### **What I Learned Today**
+### **What I Learnt Today**
 
 #### **1. What Are Replaced Elements?**
 Replaced elements are HTML tags where the browser "replaces" your code with something else.
